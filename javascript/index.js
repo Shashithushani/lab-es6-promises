@@ -142,36 +142,36 @@ document.getElementById("images").querySelector("#broccoliImg").style.display =
 //     console.log(arrayOfValues);
 //   })
 //   .catch((error) => console.log(error));
-const step0 = new Promise((resolve, reject) => {
-  resolve(`${step0}`);
-});
+// const step0 = new Promise((resolve, reject) => {
+//   resolve(`${step0}`);
+// });
 
-const step1 = new Promise((resolve, reject) => {
-  resolve(`${step1}`);
-});
-const step2 = new Promise((resolve, reject) => {
-  resolve(`${step2}`);
-});
-const step3 = new Promise((resolve, reject) => {
-  resolve(`${step3}`);
-});
-const step4 = new Promise((resolve, reject) => {
-  resolve(`${step4}`);
-});
-const step5 = new Promise((resolve, reject) => {
-  resolve(`${step5}`);
-});
-const step6 = new Promise((resolve, reject) => {
-  resolve(`${step6}`);
-});
-const step7 = new Promise((resolve, reject) => {
-  resolve(`${step7}`);
-});
+// const step1 = new Promise((resolve, reject) => {
+//   resolve(`${step1}`);
+// });
+// const step2 = new Promise((resolve, reject) => {
+//   resolve(`${step2}`);
+// });
+// const step3 = new Promise((resolve, reject) => {
+//   resolve(`${step3}`);
+// });
+// const step4 = new Promise((resolve, reject) => {
+//   resolve(`${step4}`);
+// });
+// const step5 = new Promise((resolve, reject) => {
+//   resolve(`${step5}`);
+// });
+// const step6 = new Promise((resolve, reject) => {
+//   resolve(`${step6}`);
+// });
+// const step7 = new Promise((resolve, reject) => {
+//   resolve(`${step7}`);
+// });
 
-Promise.all([step0, step1, step2, step3, step4, step5, step6])
-  .then((values) => {
-    console.log(values);
-  })
-  .catch((error) => {
-    console.log(error);
-  });
+// Promise.all([step0, step1, step2, step3, step4, step5, step6])
+//   .then((values) => {
+//     console.log(values);
+//   })
+//   .catch((error) => {
+//     console.log(error);
+//   });
